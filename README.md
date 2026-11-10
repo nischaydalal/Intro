@@ -1,4 +1,4 @@
 # Intro
 First Git Repository.
 <br>
-Auther - Nischay Dalal
+Auther - Nischay Dalal (Endeavor)
